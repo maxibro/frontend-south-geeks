@@ -1,0 +1,7 @@
+const config = {
+  BACKEND_PROTO: "http",
+  BACKEND_HOSTNAME: "192.168.2.104",
+  BACKEND_PORT: "80"
+};
+
+export { config };
